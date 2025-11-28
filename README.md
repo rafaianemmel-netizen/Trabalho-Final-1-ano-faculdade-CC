@@ -17,3 +17,7 @@ eles para Pronto, Em Preparo e Pronto modificando todas as que desejar e logo ap
 necessario apertar o botão escrito "Atualizar Status" para editar o pedido.
 
 agradeço a compreensão tenha um otimo dia.
+
+                
+arquivo abaixo  
+[Quiosque.zip](https://github.com/user-attachments/files/23812869/Quiosque.zip)
